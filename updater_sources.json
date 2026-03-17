@@ -1,5 +1,6 @@
-﻿{
+{
   "manifest_urls": [
-    "https://github.com/Karrar-330/test.git"
+    "https://raw.githubusercontent.com/Karrar-330/test/main/version.json"
+    
   ]
 }
