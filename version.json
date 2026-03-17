@@ -6,7 +6,7 @@
   "mirrors": [
     {
       "name": "github-release",
-      "url": "https://github.com/Karrar-330/test/releases/download/untagged-538ac34ba10c4c071355/update.zip"
+      "url": "https://github.com/Karrar-330/test/releases/download/v1.2.0/update.zip"
     }
   ]
 }
