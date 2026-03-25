@@ -7,9 +7,7 @@
 
 
 "mirrors": [
-    {
-      "name": "github-release",
-      "url": "https://github.com/Karrar-330/test/releases/download/v3.1.4/update_package.zip"
-    }
-  ]
+  "https://github.com/Karrar-330/test/releases/download/v3.1.6/update_package.zip"
+]
+
 }
