@@ -3,3 +3,9 @@
   "channel": "stable",
   "updated_at": "2026-03-25T05:58:19+00:00"
 }
+"mirrors": [
+    {
+      "name": "github-release",
+      "url": "https://github.com/Karrar-330/test/releases/download/v1.3.2/update.zip"
+    }
+  ]
