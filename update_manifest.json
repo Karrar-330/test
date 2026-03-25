@@ -1,11 +1,15 @@
 {
   "version": "0.3.1.5",
-  "channel": "stable",
-  "updated_at": "2026-03-25T05:58:19+00:00"
-}
+  "sha256": "0dcad675874740d69cbe9bafb0792fe3574cb8b501cc0dc22d5d17720133629e",
+  "size": 393213852,
+  "notes": "New production release 0.3.1.5 (update-fix validation)",
+  "released_at": "2026-03-25T08:26:44+00:00",
+
+
 "mirrors": [
     {
       "name": "github-release",
       "url": "https://github.com/Karrar-330/test/releases/download/v3.1.4/update_package.zip"
     }
   ]
+}
