@@ -1,10 +1,9 @@
 {
-  "version": "0.3.1.4",
+  "version": "3.1.4",
   "sha256": "eefaa0ee4e95f1c0f3af8de5412a348b8dbfaca0a10ba1eb169579dc94d00b77",
-  "size": 393213852,
-  "notes": "New production release 0.3.1.4 (update-fix validation)",
-  "released_at": "2026-03-25T08:26:44+00:00",
-
+  "size": 70071086,
+  "notes": "Test update files only",
+  "released_at": "2026-03-25T21:51:28+00:00",
 
 "mirrors": [
   "https://github.com/Karrar-330/test/releases/download/v3.1.4/update_package.zip"
