@@ -1,8 +1,8 @@
 {
-  "version": "0.3.1.6",
+  "version": "0.3.1.4",
   "sha256": "0dcad675874740d69cbe9bafb0792fe3574cb8b501cc0dc22d5d17720133629e",
   "size": 393213852,
-  "notes": "New production release 0.3.1.5 (update-fix validation)",
+  "notes": "New production release 0.3.1.4 (update-fix validation)",
   "released_at": "2026-03-25T08:26:44+00:00",
 
 
