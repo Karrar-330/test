@@ -1,3 +1,4 @@
+{  
   "version": "3.1.4",
   "sha256": "8276ecc27b3790fd05cb4e75ddf86aaf3f679eddf946326f9105df9b764f117f",
   "size": 56785503,
@@ -6,4 +7,4 @@
   "mirrors": [
   "https://github.com/Karrar-330/test/releases/download/v3.1.4/update_package.zip"
 ]
-
+}
