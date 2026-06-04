@@ -1,9 +1,9 @@
-{  
-  "version": "3.1.4",
-  "sha256": "8276ecc27b3790fd05cb4e75ddf86aaf3f679eddf946326f9105df9b764f117f",
-  "size": 56785503,
-  "notes": "main exe only + update monitor window",
-  "released_at": "2026-03-25T22:09:38+00:00",
+{
+  "version": "0.0.1",
+  "sha256": "12701392362dd9f8f8eae72657f405635223e40b2a471141310505040c9804eb",
+  "size": 85580572,
+  "notes": "تحديث جديد",
+  "released_at": "2026-06-04T09:08:39+00:00",
   "mirrors": [
   "https://github.com/Karrar-330/test/releases/download/v3.1.4/update_package.zip"
 ]
