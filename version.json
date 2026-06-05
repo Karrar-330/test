@@ -1,9 +1,9 @@
 {
- "version": "0.0.1",
-  "sha256": "9e404a4ab26a8506a89ffe3b48c6fb6d639447b369b7870a08347c09d6ee8864",
-  "size": 85580459,
+  "version": "0.0.1",
+  "sha256": "b430f6f8df29c8e3e4d79e0c16e5872e98dd9adfba8cfba97ff7e9b50d0cf94a",
+  "size": 72300583,
   "notes": "new v",
-  "released_at": "2026-06-04T13:03:19+00:00",
+  "released_at": "2026-06-05T22:04:19+00:00",
   "mirrors": [
   "https://github.com/Karrar-330/test/releases/download/v0.0.1/update_package.zip"]
 }
